@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/evr-git-deploy/static/js/main.d76c05d1.js",
+    "index.html": "/evr-git-deploy/index.html",
+    "main.d76c05d1.js.map": "/evr-git-deploy/static/js/main.d76c05d1.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d76c05d1.js"
+  ]
+}
